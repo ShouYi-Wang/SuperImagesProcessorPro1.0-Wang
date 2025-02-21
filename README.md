@@ -11,7 +11,29 @@
 - 支持压缩后图片下载
 - 优雅的苹果风格界面设计
 
-## 页面结构
+## 在线体验
+
+访问 GitHub Pages 地址：https://shouyi-wang.github.io/SuperImagesProcessorPro1.0-Wang/
+
+## 本地运行
+
+1. 克隆项目到本地：
+bash
+git clone https://github.com/ShouYi-Wang/SuperImagesProcessorPro1.0-Wang.git
+
+2. 使用浏览器打开 index.html 文件即可运行
+
+## 技术栈
+
+- HTML5
+- CSS3
+- JavaScript
+- Canvas API
+
+## 开源协议
+
+MIT License
+<!-- ## 页面结构
 
 ### 主要区域划分
 1. 顶部标题栏
@@ -26,4 +48,4 @@
 - 主色调：白色背景 + 浅灰色边框
 - 强调色：苹果蓝 (#007AFF)
 - 圆角设计：8px
-- 磨砂玻璃效果背景 
+- 磨砂玻璃效果背景  -->
